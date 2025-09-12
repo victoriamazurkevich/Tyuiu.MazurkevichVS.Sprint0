@@ -24,7 +24,7 @@ namespace Tyuiu.MazurkevichVS.Sprint0.Task6.V0.Lib
             }
             return total;
         }
-        public static object MultArray(int[] numbers)
+        public static object MultiplicationArray(int[] numbers)
         {
             var total = 1;
             int index = 0;
